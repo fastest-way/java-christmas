@@ -66,7 +66,7 @@ BUILD SUCCESSFUL in 0s
 
 #### 달력
 
-![](image.png)
+![image](./image.png)
 
 #### 이벤트 목표
 
